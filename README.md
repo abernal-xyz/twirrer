@@ -1,2 +1,2 @@
 # twirrer
-Twitter clone practice
+Twitter Clone practice
